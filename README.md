@@ -7,3 +7,5 @@
 [FPVCycle Cinesplore](documents/drone-settings-cinesplore.md)
 
 [Velocidrone rates](documents/rates-velocidrone.md)
+
+[Diatone GTB229 and Crossfire Rx](documents/diatone-gtb229-remap.md)
