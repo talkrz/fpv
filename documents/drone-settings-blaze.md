@@ -1,4 +1,4 @@
-# DemonRC Blaze 4s 2306 motors (Emuflight)
+# DemonRC Blaze 4s 2306 2400kV motors (Emuflight)
 
 ### Rates
 
