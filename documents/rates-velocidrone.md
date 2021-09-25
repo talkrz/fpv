@@ -2,8 +2,8 @@
 
 ## Racing rates (Five33 Switchback)
 
-![Racing rates](documents/images/velocidrone-racing.png)
+![Racing rates](images/velocidrone-racing.png)
 
 ## Cinematic rates
 
-![Cinematic rates](documents/images/velocidrone-cine.png)
+![Cinematic rates](images/velocidrone-cine.png)
