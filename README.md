@@ -2,7 +2,7 @@
 
 [DemonRC Blaze](documents/drone-settings-blaze.md)
 
-[Armattan marmotte](documents/drone-settings-marmotte.md)
+[Armattan Marmotte](documents/drone-settings-marmotte.md)
 
 [FPVCycle Cinesplore](documents/drone-settings-cinesplore.md)
 
