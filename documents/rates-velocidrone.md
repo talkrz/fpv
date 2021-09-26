@@ -1,15 +1,16 @@
 # Velocidrone rates
 
-## Racing rates v2 (Five33 Switchback)
+## Racing rates "spec" (TBS Spec)
 
- * no throttle expo
- * more linear
+![Racing rates](images/velocidrone-racing-spec.png)
 
-![Racing rates](images/velocidrone-racing-v2.png)
+## Racing rates "open" (Five33 Switchback)
 
-## Racing rates (Five33 Switchback)
+![Racing rates](images/velocidrone-racing-open.png)
 
-![Racing rates](images/velocidrone-racing.png)
+## Racing rates old (Five33 Switchback)
+
+![Racing rates](images/velocidrone-racing-old.png)
 
 ## Cinematic rates
 
