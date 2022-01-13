@@ -6,16 +6,13 @@
 
 ## Racing rates "open" (Five33 Switchback)
 
-Prop: 5150
+Prop: 5150 or 5146
 Prop profile:
  * Profile 1 seems faster
  * Profile 2 better for tight turns (?)
 
 ![Racing rates](images/velocidrone-racing-open.png)
 
-## Racing rates old (Five33 Switchback)
-
-![Racing rates](images/velocidrone-racing-old.png)
 
 ## Cinematic rates
 
