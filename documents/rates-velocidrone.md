@@ -1,17 +1,16 @@
 # Velocidrone rates
 
-## Racing rates "spec" (TBS Spec)
+## Five33 Switchback, experimental high pids for 5150 prop
+
+![Racing rates](images/five33_high.png)
+
+## Five33 Switchback, universal
+
+![Racing rates](images/five33_universal.png)
+
+## Racing rates - TBS Spec
 
 ![Racing rates](images/velocidrone-racing-spec.png)
-
-## Racing rates "open" (Five33 Switchback)
-
-Prop: 5150 or 5146
-Prop profile:
- * Profile 1 seems faster
- * Profile 2 better for tight turns (?)
-
-![Racing rates](images/velocidrone-racing-open.png)
 
 
 ## Cinematic rates
