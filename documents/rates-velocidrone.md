@@ -1,16 +1,15 @@
 # Velocidrone rates
 
-## Five33 Switchback, experimental high pids for 5150 prop
+## Five33 Switchback
 
-![Racing rates](images/five33_high.png)
+![5045 prop](images/five33_5045.png)
+![5141 prop](images/five33_5141.png)
+![5146 prop](images/five33_5146.png)
+![5150 prop](images/five33_5150.png)
 
-## Five33 Switchback, universal
+## TBS Spec
 
-![Racing rates](images/five33_universal.png)
-
-## Racing rates - TBS Spec
-
-![Racing rates](images/velocidrone-racing-spec.png)
+![Racing rates](images/tbs_spec_5141.png)
 
 
 ## Cinematic rates
