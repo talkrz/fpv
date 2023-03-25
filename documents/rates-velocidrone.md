@@ -2,9 +2,17 @@
 
 ## Five33 Switchback
 
-![5045 prop](images/five33_5045.png)
-![5141 prop](images/five33_5141.png)
+### 5045
+
+in progress...
+
+### 5141
+
+in progress...
+
+### 5146
 ![5146 prop](images/five33_5146.png)
+### 5150
 ![5150 prop](images/five33_5150.png)
 
 ## TBS Spec
@@ -14,4 +22,4 @@
 
 ## Cinematic rates
 
-![Cinematic rates](images/velocidrone-cine.png)
+in progress...
